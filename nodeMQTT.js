@@ -9,8 +9,8 @@ var options = {
 	secureProtocol: 'TLSv1_method',
 	protocolId: 'MQIsdp',
 	protocolVersion: 3,
-	username: 'uloqgwuw',
-  	password: 'ckP7SbXZV1LK'
+	username: 'uuythgf',
+  	password: 'hfhfretetert'
 };
 /***************************  FIM MQTT      ************************************/
 /*******************************************************************************/
