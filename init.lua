@@ -1,6 +1,6 @@
 -- Conexao na rede Wifi
 wifi.setmode(wifi.STATION)
-wifi.sta.config("slackware","12345678")
+wifi.sta.config("slackware","tyuhgghjgjh")
 print("\n====================================")
 print("ESP8266 mode: " .. wifi.getmode())
 print("Chip ID "..node.chipid());
