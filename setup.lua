@@ -35,7 +35,7 @@ end
 function module.start()
   print("Configuring Wifi ...")
   wifi.setmode(wifi.STATION);
-  wifi.sta.config("slackware","WifiBanc2018")
+  wifi.sta.config("slackware","tytrutyfgfhfg")
   wifi.sta.connect()
   app.start()
 end
